@@ -42,6 +42,7 @@ void confirm() {
 void stringCount() {
    borderSize = Fullname.length();
 }
+//The main code
 int main()
 {
     std::cout << "Welcome! Please enter your full name\n";
